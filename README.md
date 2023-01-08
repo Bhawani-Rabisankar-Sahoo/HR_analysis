@@ -3,7 +3,7 @@
 
 It shows how the employees are distributed acccording to their age .
 
-Maximum number of employees are in their 30s and the number gradually decreases with increasing or drcreasing the age . 
+Maximum number of employees are in their 30s and the number gradually decreases with increasing or drcreasing the age . It makes a normal distribution curve.
 ![1](https://user-images.githubusercontent.com/72175654/210151277-5c0b75f8-c73a-4f52-af89-d879db9314aa.png)
 
 
