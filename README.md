@@ -3,11 +3,10 @@
 
 It shows how the employees are distributed acccording to their age .
 
-<<<<<<< HEAD
 Maximum number of employees are in their 30s and the number gradually decreases with increasing or drcreasing the age . 
-=======
+
 Maximum number of employees are in their 30s and the number gradually decreases with increasing or drcreasing the age . It makes a normal distribution curve.
->>>>>>> 018eaa581cf1e23a499fe0aeb6e0931562b77a4f
+
 ![1](https://user-images.githubusercontent.com/72175654/210151277-5c0b75f8-c73a-4f52-af89-d879db9314aa.png)
 
 
@@ -15,11 +14,11 @@ Maximum number of employees are in their 30s and the number gradually decreases 
 
 It shows how the employees are distributed acccording to their department .
 
-<<<<<<< HEAD
+
 Research and Development has maximum number of employees then Sales and then Human Resources
-=======
+
 Research and Development has maximum number of employees then Sales and then Human Resources.
->>>>>>> 018eaa581cf1e23a499fe0aeb6e0931562b77a4f
+
 
 
 
