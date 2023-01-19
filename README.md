@@ -3,7 +3,7 @@
 
 It shows how the employees are distributed acccording to their age .
 
-Maximum number of employees are in their 30s and the number gradually decreases with increasing or drcreasing the age . 
+
 
 Maximum number of employees are in their 30s and the number gradually decreases with increasing or drcreasing the age . It makes a normal distribution curve.
 
@@ -15,7 +15,7 @@ Maximum number of employees are in their 30s and the number gradually decreases 
 It shows how the employees are distributed acccording to their department .
 
 
-Research and Development has maximum number of employees then Sales and then Human Resources
+
 
 Research and Development has maximum number of employees then Sales and then Human Resources.
 
