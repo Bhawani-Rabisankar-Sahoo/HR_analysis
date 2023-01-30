@@ -1,4 +1,4 @@
-# HR_analysis
+# Employee_Attrition_analysis
 ## Employee distribution with age
 
 It shows how the employees are distributed acccording to their age .
